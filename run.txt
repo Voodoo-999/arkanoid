@@ -1,0 +1,5 @@
+   Compile:
+   javac -cp "biuoop-1.4.jar" -d bin src/*.java
+
+   Run:
+   java -cp "bin:biuoop-1.4.jar" Ass5Game
